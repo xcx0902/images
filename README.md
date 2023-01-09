@@ -1,2 +1,2 @@
 # picture
-Storege pictures
+Storage pictures
